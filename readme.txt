@@ -1,7 +1,13 @@
 開檔案三步驟
-1.進到對的資料夾後輸入 python -m venv venv
-2.啟動環境  source venv/scripts/activate
-3.安裝套件(資料夾裡面的套件會被一次裝好)  pip install requests
+1.進到對的資料夾後輸入 
+python3 -m venv venv
+
+2.啟動環境  
+source venv/scripts/activate => windows
+source venv/bin/activate => Linux
+
+3.安裝套件(資料夾裡面的套件會被一次裝好)  
+pip install -r requirements.txt
 
 收工兩步驟
 1.儲存所有用到的套件(沒做下次會痛苦死)
