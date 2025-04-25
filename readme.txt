@@ -24,7 +24,7 @@ git push -u origin main    # 上傳到 GitHub
 -----------------------------------------------------------------------
 3.下次做版本控制(覆蓋掉type)
 git add .
-git commit -m "你的更新說明"
+git commit -m "資料清理 及 題目重排列"
 git push
 
 4.下次做版本控制(branch type)

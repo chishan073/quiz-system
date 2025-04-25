@@ -4,7 +4,7 @@ import json
 import re
 
 # 載入題目資料 (假設你將 JSON 檔案存放在同一資料夾下)
-with open("questions_answers.json", "r", encoding="utf-8") as f:
+with open("questions_with_explanations.json", "r", encoding="utf-8") as f:
     questions = json.load(f)
 
 # 轉換為 DataFrame
@@ -46,6 +46,11 @@ for index, row in df.iterrows():
     # 顯示正確答案
     correct_answer = row['answer']
     st.write(f"正確答案：{correct_answer}")
+    
+    # 顯示解析 explanation（如果有）
+    if "explanation" in row and row["explanation"].strip():
+        with st.expander("🔍 查看解析"):
+            st.markdown(row["explanation"])
 
     # 分隔線
     st.write("---")
