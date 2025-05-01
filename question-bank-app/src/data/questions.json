@@ -1,0 +1,1122 @@
+{
+  "file": "頁面擷取自-4 化學原文書.pdf",
+  "exercises": [
+    {
+      "question": [
+        "Two different gases occupy the two bulbs shown here",
+        "Con- sider the process that occurs when the stopcock is opened, assuming the gases behave ideally",
+        "(a) Draw the final (equilib- rium) state",
+        "(b) Predict the signs of and  for the process",
+        "(c) Is the process that occurs when the stopcock is opened a reversible one? (d) How does the process affect the entropy of the surroundings? [Sections 19.1 and 19.2]"
+      ],
+      "id": "19.1",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "As shown here, one type of computer keyboard cleaner con- tains liquefied 1,1-difluoroethane (C2H4F2), which is a gas at atmospheric pressure",
+        "When the nozzle is squeezed, the  1,1-difluoroethane vaporizes out of the nozzle at high pres- sure, blowing dust out of objects",
+        "(a) Based on your experience, is the vaporization a spontaneous process at room temperature? (b) Defining the 1,1-difluoroethane as the sys- tem, do you expect qsys for the process to be positive or negative? Explain",
+        "(c) Predict whether  is positive or nega- tive for this process",
+        "(d) Given your answers to (a), (b), and (c), do you think the operation of this product depends more on heat flow or more on entropy change? ¢S ¢S ¢H Vaporized C2H4F2 Liquefied C2H4F2 f f"
+      ],
+      "id": "19.2",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) What are the signs of and  for the process depicted here? (b) How might temperature affect the sign of ? (c) If energy can flow in and out of the system to maintain a con- stant temperature during the process, what can you say about the entropy change of the surroundings as a result of this process? [Sections 19.2 and 19.5]"
+      ],
+      "id": "19.3",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Predict the sign of accompanying this reaction",
+        "Explain your choice",
+        "[Section 19.3]"
+      ],
+      "id": "19.4",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "The accompanying diagram shows how entropy varies with temperature for a substance that is a gas at the highest temper- ature shown",
+        "(a) What processes correspond to the entropy increases along the vertical lines labeled 1 and 2? (b) Why is the entropy change for 2 larger than that for 1? [Section 19.3]"
+      ],
+      "id": "19.5",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Isomers are molecules that have the same chemical formula but different arrangements of atoms, as shown here for two isomers of pentane, C5H12",
+        "(a) Do you expect a significant dif- ference in the enthalpy of combustion of the two isomers? Explain",
+        "(b) Which isomer do you expect to have the higher standard molar entropy? Explain",
+        "[Section 19.4] CH3 CH2 CH2 CH2 CH3 C CH3 CH3 CH3 CH3 n-pentane neopentane Temperature (K) Entropy, S 1 2 ¢S ¢G ¢H ¢S"
+      ],
+      "id": "19.6",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "The accompanying diagram shows how  (red line) and (blue line) change with temperature for a hypothetical reaction",
+        "(a) What is the significance of the point at 300 K, where  and  are equal? (b) In what temperature range is this reaction spontaneous? [Section 19.6]"
+      ],
+      "id": "19.7",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "The accompanying diagram shows how  for a hypothetical reaction changes as temperature changes",
+        "(a) At what temper- ature is the system at equilibrium? (b) In what temperature range is the reaction spontaneous? (c) Is  positive or nega- tive? (d) Is  positive or negative? [Sections 19.5 and 19.6]"
+      ],
+      "id": "19.8",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Consider a reaction  , with atoms of A shown in red in the diagram and atoms of B shown in blue",
+        "(a) If , which box represents the system at equi- librium? (b) What is the sign of for any process in which the contents of a reaction vessel move to equilibrium? (c) Rank the boxes in order of increasing magnitude of for the reaction",
+        "[Sections 19.5 and 19.7]"
+      ],
+      "id": "19.9",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "The accompanying diagram shows how the free energy, G, changes during a hypothetical reaction  ",
+        "On the left are pure reactants, each at 1 atm, and on the right is the pure product, also at 1 atm",
+        "(a) What is the sig- nificance of the minimum in the plot? (b) What does the quantity x, shown on the right side of the diagram, represent? [Section 19.7] G x Progress of reaction C1g2 A1g2 + B1g2 ¡ (2) (3) (1) ¢G ¢G Kc = 1 A21g2 + B21g2 ∆ 2 AB1g2 Temperature 250 K �G 0 ¢S ¢H ¢G Temperature T�S �H 300 K T¢S ¢H T¢S ¢H"
+      ],
+      "id": "19.10",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Which of the following processes are spontaneous and which are nonspontaneous: (a) the ripening of a banana, (b) dissolu- tion of sugar in a cup of hot coffee, (c) the reaction of nitrogen atoms to form N2 molecules at  and 1 atm, (d) lightning, (e) formation of CH4 and O2 molecules from CO2 and H2O at room temperature and 1 atm of pressure?"
+      ],
+      "id": "19.11",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Which of the following processes are spontaneous: (a) the melting of ice cubes at  and 1 atm pressure; (b) sepa- rating a mixture of N2 and O2 into two separate samples, one that is pure N2 and one that is pure O2; (c) alignment of iron filings in a magnetic field; (d) the reaction of hydrogen gas with oxygen gas to form water vapor; (e) the dissolution of HCl(g) in water to form concentrated hydrochloric acid?"
+      ],
+      "id": "19.12",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) Give two examples of endothermic processes that are spontaneous",
+        "(b) Give an example of a process that is sponta- neous at one temperature but nonspontaneous at a different temperature."
+      ],
+      "id": "19.13",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "The crystalline hydrate  loses water when placed in a large, closed, dry vessel: This process is spontaneous and  is positive",
+        "Is this process an exception to Bertholet’s generalization that all spontaneous changes are exothermic? Explain."
+      ],
+      "id": "19.14",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Consider the vaporization of liquid water to steam at a pres- sure of 1 atm",
+        "(a) Is this process endothermic or exothermic? (b) In what temperature range is it a spontaneous process?  (c) In what temperature range is it a nonspontaneous process? (d) At what temperature are the two phases in equilibrium?"
+      ],
+      "id": "19.15",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "The normal freezing point of n-octane (C8H18) is  ",
+        "(a) Is the freezing of n-octane an endothermic or exother- mic process? (b) In what temperature range is the freezing of n-octane a spontaneous process? (c) In what temperature range is it a nonspontaneous process? (d) Is there any temper- ature at which liquid n-octane and solid n-octane are in equilibrium? Explain."
+      ],
+      "id": "19.16",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) What is special about a reversible process? (b) Suppose a re- versible process is reversed, restoring the system to its original -57 °C ¢H Cd1NO322 # 4 H2O1s2 ¡ Cd1NO3221s2 + 4 H2O1g2 Cd1NO322 # 4 H2O1s2 -10 °C 25 °C state",
+        "What can be said about the surroundings after the process is reversed? (c) Under what circumstances will the va- porization of water to steam be a reversible process? (d) Are any of the processes that occur in the world around us reversible in nature? Explain."
+      ],
+      "id": "19.17",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) What is meant by calling a process irreversible? (b) After a particular irreversible process, the system is restored to its original state",
+        "What can be said about the condition of the sur- roundings after the system is restored to its original state? (c) Under what conditions will the condensation of a liquid be an irreversible process?"
+      ],
+      "id": "19.18",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Consider a process in which an ideal gas changes from state 1 to state 2 in such a way that its temperature changes from 300 K to 200 K",
+        "(a) Describe how this change might be carried out while keeping the volume of the gas constant",
+        "(b) Describe how it might be carried out while keeping the pressure of the gas constant",
+        "(c) Does the change in  depend on the partic- ular pathway taken to carry out this change of state? Explain."
+      ],
+      "id": "19.19",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "A system goes from state 1 to state 2 and back to state 1",
+        "(a) What is the relationship between the value of for going from state 1 to state 2 to that for going from state 2 back to state 1? (b) Without further information, can you conclude anything about the amount of heat transferred to the system as it goes from state 1 to state 2 as compared to that upon going from state 2 back to state 1? (c) Suppose the changes in state are reversible processes",
+        "Can you conclude anything about the work done by the system upon going from state 1 to state 2 as compared to that upon going from state 2 back to state 1?"
+      ],
+      "id": "19.20",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Consider a system consisting of an ice cube",
+        "(a) Under what conditions can the ice cube melt reversibly? (b) If the ice cube melts reversibly, is  zero for the process? Explain."
+      ],
+      "id": "19.21",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Consider what happens when a sample of the explosive TNT (Section 8.8: “Chemistry Put to Work: Explosives and Alfred Nobel”) is detonated under atmospheric pressure",
+        "(a) Is the detonation a spontaneous process? (b) What is the sign of q for this process? (c) Can you determine whether w is positive, negative, or zero for the process? Explain",
+        "(d) Can you deter- mine the sign of for the process? Explain",
+        "¢E ¢E ¢E ¢E"
+      ],
+      "id": "19.22",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) How can we calculate  for an isothermal process? (b) Does  for a process depend on the path taken from the ini- tial state to the final state of the system? Explain."
+      ],
+      "id": "19.23",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Suppose we vaporize a mole of liquid water at  and another mole of water at  ",
+        "(a) Assuming that the enthalpy of va- porization of water does not change much between  and , which process involves the larger change in entropy? (b) Does the entropy change in either process depend on whether we carry out the process reversibly or not? Explain."
+      ],
+      "id": "19.24",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "The normal boiling point of Br2(l) is  , and its molar enthalpy of vaporization is  ",
+        "(a) When Br2(l) boils at its normal boiling point, does its entropy  increase or decrease? (b) Calculate the value of when"
+      ],
+      "id": "19.25",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "mol of Br2(l) is vaporized at  ."
+      ],
+      "id": "1.00",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "The element gallium (Ga) freezes at  , and its molar en- thalpy of fusion is  ",
+        "(a) When molten ¢Hfus = 5.59 kJ>mol"
+      ],
+      "id": "19.26",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "°C"
+      ],
+      "id": "29.8",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "°C ¢S ¢Hvap = 29.6 kJ>mol"
+      ],
+      "id": "58.8",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "°C 100 °C 25 °C 100 °C 25 °C ¢S ¢S gallium solidifies to Ga(s) at its normal melting point, is  positive or negative? (b) Calculate the value of when 60.0 g of Ga(l) solidifies at  ."
+      ],
+      "id": "58.8",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) Express the second law of thermodynamics in words",
+        "(b) If the entropy of the system increases during a reversible process, what can you say about the entropy change of the surround- ings? (c) In a certain spontaneous process the system undergoes an entropy change, ",
+        "What can you conclude about  ?"
+      ],
+      "id": "19.27",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) Express the second law of thermodynamics as a mathemat- ical equation",
+        "(b) In a particular spontaneous process the entropy of the system decreases",
+        "What can you conclude about the sign and magnitude of ? (c) During a certain reversible process, the surroundings undergo an entropy change, ",
+        "What is the entropy change of the system for this process? ¢Ssurr = -78 J>K ¢Ssurr ¢Ssurr ¢S = 42 J>K"
+      ],
+      "id": "19.28",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "°C ¢S ¢S ENTROPY AND THE SECOND LAW OF THERMODYNAMICS (section 19.2)"
+      ],
+      "id": "29.8",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "For the isothermal expansion of a gas into a vacuum, , , and  ",
+        "(a) Is this a spontaneous process? (b) Explain why no work is done by the system during this process",
+        "(c) In thermodynamics, what is the “driving force” for the expansion of the gas?"
+      ],
+      "id": "19.31",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) What is the difference between a state and a microstate of a system? (b) As a system goes from state A to state B, its entropy decreases",
+        "What can you say about the number of microstates corresponding to each state? (c) In a particular spontaneous process, the number of microstates available to the system de- creases",
+        "What can you conclude about the sign of ?"
+      ],
+      "id": "19.32",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "How would each of the following changes affect the number of microstates available to a system: (a) increase in temperature, (b) decrease in volume, (c) change of state from liquid to gas?"
+      ],
+      "id": "19.33",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) Using the heat of vaporization in Appendix B, calculate the entropy change for the vaporization of water at  and at ",
+        "(b) From your knowledge of microstates and the struc- ture of liquid water, explain the difference in these two values."
+      ],
+      "id": "19.34",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) What do you expect for the sign of in a chemical reaction in which two moles of gaseous reactants are converted to three moles of gaseous products? (b) For which of the processes in Exercise 19.11 does the entropy of the system increase?"
+      ],
+      "id": "19.35",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) In a chemical reaction two gases combine to form a solid",
+        "What do you expect for the sign of (b) How does the entropy of the system change in the processes described in Exercise 19.12?"
+      ],
+      "id": "19.36",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "How does the entropy of the system change when (a) a solid melts, (b) a gas liquefies, (c) a solid sublimes?"
+      ],
+      "id": "19.37",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "How does the entropy of the system change when (a) the tem- perature of the system increases, (b) the volume of a gas increases, (c) equal volumes of ethanol and water are mixed to form a solution?"
+      ],
+      "id": "19.38",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) State the third law of thermodynamics",
+        "(b) Distinguish between translational motion, vibrational motion, and ¢S? ¢S 100 °C 25 °C ¢Ssurr w = 0 q = 0 ¢E = 0 rotational motion of a molecule",
+        "(c) Illustrate these three kinds of motion with sketches for the HCl molecule."
+      ],
+      "id": "19.39",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) If you are told that the entropy of a certain system is zero, what do you know about the system and the temperature? (b) The energy of a gas is increased by heating it",
+        "Using CO2 as an example, illustrate the different ways in which additional en- ergy can be distributed among the molecules of the gas",
+        "(c) CO2(g) and Ar(g) have nearly the same molar mass",
+        "At a given temperature, will they have the same number of microstates? Explain."
+      ],
+      "id": "19.40",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "For each of the following pairs, choose the substance with the higher entropy per mole at a given temperature: (a) Ar(l) or Ar(g), (b) He(g) at 3 atm pressure or He(g) at 1.5 atm pres- sure, (c) 1 mol of Ne(g) in 15.0 L or 1 mol of Ne(g) in 1.50 L, (d) CO2(g) or CO2(s)."
+      ],
+      "id": "19.41",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "For each of the following pairs, indicate which substance possesses the larger standard entropy: (a) 1 mol of P4(g) at , 0.01 atm, or 1 mol of As4(g) at  , 0.01 atm; (b) 1 mol of H2O(g) at  , 1 atm, or 1 mol of H2O(l) at , 1 atm; (c) 0.5 mol of N2(g) at 298 K, 20-L volume, or"
+      ],
+      "id": "19.42",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "mol CH4(g) at 298 K, 20-L volume; (d) 100 g Na2SO4(s) at or 100 g Na2SO4(aq) at  ."
+      ],
+      "id": "0.5",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Predict the sign of the entropy change of the system for each of the following reactions: (a) (b) (c) (d)"
+      ],
+      "id": "19.43",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Predict the sign of for each of the following processes: (a) Molten gold solidifies",
+        "(b) Gaseous Cl2 dissociates in the stratosphere to form gaseous Cl atoms",
+        "(c) Gaseous CO reacts with gaseous H2 to form liquid methanol, CH3OH",
+        "(d) Cal- cium phosphate precipitates upon mixing Ca(NO3)2(aq) and (NH4)3PO4(aq)",
+        "¢Ssys Al2O31s2 + 3 H21g2 ¡ 2 Al1s2 + 3 H2O1g2 3 C2H21g2 ¡ C6H61g2 CaCO31s2 ¡ CaO1s2 + CO21g2 N21g2 + 3 H21g2 ¡ 2 NH31g2 30 °C 30 °C 100 °C 100 °C 300 °C 300 °C THE MOLECULAR INTERPRETATION OF ENTROPY (section 19.3) ENTROPY CHANGES IN CHEMICAL REACTIONS (section 19.4)"
+      ],
+      "id": "19.44",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) Using Figure 19.13 as a model, sketch how the entropy of water changes as it is heated from  to  at sea level",
+        "Show the temperatures at which there are vertical in- creases in entropy",
+        "(b) Which process has the larger entropy change: melting ice or boiling water? Explain."
+      ],
+      "id": "19.45",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Propanol (C3H7OH) melts at  and boils at  ",
+        "Draw a qualitative sketch of how the entropy changes as propanol vapor at  and 1 atm is cooled to solid propanol at  and 1 atm."
+      ],
+      "id": "19.46",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "In each of the following pairs, which compound would you expect to have the higher standard molar entropy: (a) C2H2(g) or C2H6(g), (b) CO2(g) or CO(g)? Explain",
+        "-150 °C 150 °C"
+      ],
+      "id": "19.47",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "°C -126.5 °C 110 °C -50 °C"
+      ],
+      "id": "97.4",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Cyclopropane and propylene are isomers (see Exercise 19.6) that both have the formula C3H6",
+        "Based on the molecular structures shown, which of these isomers would you expect to have the higher standard molar entropy at  ? C C H H H H H C H Propylene C H H C H H H C H Cyclopropane 25 °C"
+      ],
+      "id": "19.48",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) What sign for  do you expect when the volume of 0.200 mol of an ideal gas at  is increased isothermally from an initial volume of 10.0 L? (b) If the final volume is"
+      ],
+      "id": "19.29",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "L, calculate the entropy change for the process",
+        "(c) Do you need to specify the temperature to calculate the entropy change? Explain",
+        "27 °C ¢S"
+      ],
+      "id": "18.5",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) What sign for  do you expect when the pressure on 0.600 mol of an ideal gas at 350 K is increased isothermally from an initial pressure of 0.750 atm? (b) If the final pressure on the gas is 1.20 atm, calculate the entropy change for the process",
+        "(c) Do you need to specify the temperature to calcu- late the entropy change? Explain",
+        "¢S"
+      ],
+      "id": "19.30",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "and 19.6)"
+      ],
+      "id": "19.5",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) For a process that occurs at constant temperature, express the change in Gibbs free energy in terms of changes in the en- thalpy and entropy of the system",
+        "(b) For a certain process that occurs at constant T and P, the value of is positive",
+        "What can you conclude? (c) What is the relationship between  for a process and the rate at which it occurs?"
+      ],
+      "id": "19.55",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) What is the meaning of the standard free-energy change, , as compared with  ? (b) For any process that occurs at constant temperature and pressure, what is the significance of ? (c) For a certain process, is large and negative",
+        "Does this mean that the process necessarily occurs rapidly?"
+      ],
+      "id": "19.56",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "For a certain chemical reaction, and ",
+        "(a) Is the reaction exothermic or endother- mic? (b) Does the reaction lead to an increase or decrease in the randomness or disorder of the system? (c) Calculate  for the reaction at 298 K",
+        "(d) Is the reaction spontaneous at 298 K under standard conditions?"
+      ],
+      "id": "19.57",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "A certain reaction has  and  ",
+        "(a) Is the reaction exothermic or endothermic? (b) Does the reaction lead to an increase or decrease in the ran- domness or disorder of the system? (c) Calculate  for the reaction at 298 K",
+        "(d) Is the reaction spontaneous at 298 K under standard conditions?"
+      ],
+      "id": "19.58",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Using data in Appendix C, calculate  , , and  at  298 K for each of the following reactions",
+        "In each case show that  ",
+        "(a) (b) (c) (d)"
+      ],
+      "id": "19.59",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Use data in Appendix C to calculate  , , and  at for each of the following reactions",
+        "In each case show that  ",
+        "(a) (b) (c) (d) K1s2 + O21g2 ¡ KO21s2 2 P1s2 + 10 HF1g2 ¡ 2 PF51g2 + 5 H21g2 BaCO31s2 ¡ BaO1s2 + CO21g2 2Cr1s2 + 3O21g2 ¡ 2CrO31s2 ¢G° = ¢H° - T¢S° 25 °C ¢G° ¢S° ¢H° 2CH3OH1g2 + H21g2 ¡ C2H61g2 + 2 H2O1g2 2 PCl31g2 + O21g2 ¡ 2 POCl31g2 C1s,graphite2 + 2Cl21g2 ¡ CCl41g2 H21g2 + F21g2 ¡ 2 HF1g2 ¢G° = ¢H° - T¢S° ¢G° ¢S° ¢H° ¢G° +52.4 J>K ¢S° = ¢H° = +23.7 kJ ¢G° ¢S° = -85.5 J>K ¢H° = -35.4 kJ ¢G ¢G = 0 ¢G ¢G° ¢G ¢G"
+      ],
+      "id": "19.60",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Using data from Appendix C, calculate  for the following reactions",
+        "Indicate whether each reaction is spontaneous at 298 K under standard conditions",
+        "(a) (b) (c) (d)"
+      ],
+      "id": "19.61",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Using data from Appendix C, calculate the change in Gibbs free energy for each of the following reactions",
+        "In each case in- dicate whether the reaction is spontaneous at 298 K under standard conditions",
+        "(a) (b) (c) (d)"
+      ],
+      "id": "19.62",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Octane (C8H18) is a liquid hydrocarbon at room temperature that is the primary constituent of gasoline",
+        "(a) Write a bal- anced equation for the combustion of C8H18(l) to form CO2(g) and H2O(l)",
+        "(b) Without using thermochemical data, predict whether  for this reaction is more negative or less negative than  ."
+      ],
+      "id": "19.63",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Sulfur dioxide reacts with strontium oxide as follows: (a) Without using thermochemical data, predict whether  for this reaction is more negative or less negative than  ",
+        "(b) If you had only standard enthalpy data for this reaction, how would you go about making a rough estimate of the value of at 298 K, using data from Appendix C on other substances?"
+      ],
+      "id": "19.64",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Classify each of the following reactions as one of the four pos- sible types summarized in Table 19.3: (a) ; (b) ; (c) ¢S° = 198 J>K ¢H° = 85 kJ; N2F41g2 ¡ 2NF21g2 ¢S° = -275 J>K ¢H° = 460 kJ N21g2 + 3Cl21g2 ¡ 2NCl31g2 ¢S° = -278 J>K ¢H° = -249 kJ N21g2 + 3F21g2 ¡ 2NF31g2 ¢G° ¢H° ¢G° SO21g2 + SrO1s2 ¡ SrSO31s2 ¢H° ¢G° 2H2O21l2 ¡ 2H2O1l2 + O21g2 CH41g2 + 4F21g2 ¡ CF41g2 + 4HF1g2 P4O61s2 + 12H21g2 ¡ 4PH31g2 + 6H2O1g2 2Ag1s2 + Cl21g2 ¡ 2AgCl1s2 SO21g2 + 2 H21g2 ¡ S1s2 + 2 H2O1g2 6 Cl21g2 + 2 Fe2O31s2 ¡ 4 FeCl31s2 + 3 O21g2 NO21g2 + N2O1g2 ¡ 3NO1g2 2 SO21g2 + O21g2 ¡ 2 SO31g2 ¢G°"
+      ],
+      "id": "19.65",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Use Appendix C to compare the standard entropies at  for the following pairs of substances: (a) Sc(s) and Sc(g), (b) NH3(g) and NH3(aq), (c) 1 mol P4(g) and 2 mol P2(g), (d) C(graphite) and C(diamond)",
+        "In each case explain the differ- ence in the entropy values."
+      ],
+      "id": "19.49",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Using Appendix C, compare the standard entropies at  for the following pairs of substances: (a) CuO(s) and Cu2O(s), (b) 1 mol N2O4(g) and 2 mol NO2(g), (c) SiO2(s) and CO2(g), (d) CO(g) and CO2(g)",
+        "For each pair, explain the difference in the entropy values",
+        "[19.51] The standard entropies at 298 K for certain of the group 4A elements are as follows: C(s, diamond) � 2.43 J>mol-K, Si(s) � 18.81 J>mol-K, Ge(s) � 31.09 J>mol-K, and Sn(s) � 51.818 J>mol-K",
+        "All but Sn have the diamond structure",
+        "How do you account for the trend in the  values? [19.52] Three of the forms of elemental carbon are graphite, dia- mond, and buckminsterfullerene",
+        "The entropies at 298 K for graphite and diamond are listed in Appendix C",
+        "(a) Account S° 25 °C 25 °C for the difference in the  values of graphite and diamond in light of their structures (Figure 12.30)",
+        "(b) What would you expect for the  value of buckminsterfullerene (Figure 12.47) relative to the values for graphite and diamond? Explain."
+      ],
+      "id": "19.50",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Using  values from Appendix C, calculate  values for the following reactions",
+        "In each case account for the sign of ",
+        "(a) (b) (c) (d)"
+      ],
+      "id": "19.53",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Calculate  values for the following reactions by using tab- ulated  values from Appendix C",
+        "In each case explain the sign of ",
+        "(a) (b) (c) (d) 3 C2H61g2 ¡ C6H61l2 + 6 H21g2 CaCl21s2 + CO21g2 + H2O1l2 CaCO31s,calcite2 + 2HCl1g2 ¡ 2 Fe2O31s2 ¡ 4 Fe1s2 + 3 O21g2 HNO31g2 + NH31g2 ¡ NH4NO31s2 ¢S° S° ¢S° 2 CH3OH1g2 + 3 O21g2 ¡ 2 CO21g2 + 4 H2O1g2 Be1OH221s2 ¡ BeO1s2 + H2O1g2 N2O41g2 ¡ 2 NO21g2 C2H41g2 + H21g2 ¡ C2H61g2 ¢S° ¢S° S° S° S°"
+      ],
+      "id": "19.54",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "From the values given for  and  , calculate  for each of the following reactions at 298 K",
+        "If the reaction is not spontaneous under standard conditions at 298 K, at what tem- perature (if any) would the reaction become spontaneous? (a) (b)"
+      ],
+      "id": "19.66",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "A particular constant-pressure reaction is spontaneous at 390 K",
+        "The enthalpy change for the reaction is +23.7 kJ",
+        "What can you conclude about the sign and magnitude of for the reaction?"
+      ],
+      "id": "19.67",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "A certain constant-pressure reaction is nonspontaneous at ",
+        "The entropy change for the reaction is 72 J>K",
+        "What can you conclude about the sign and magnitude of ?"
+      ],
+      "id": "19.68",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "For a particular reaction, and  ",
+        "Assume that  and  do not vary with temperature",
+        "(a) At what temperature will the reaction have  ? (b) If T is increased from that in part (a), will the reaction be sponta- neous or nonspontaneous?"
+      ],
+      "id": "19.69",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Reactions in which a substance decomposes by losing CO are called decarbonylation reactions",
+        "The decarbonylation of acetic acid proceeds as follows: By using data from Appendix C, calculate the minimum tem- perature at which this process will be spontaneous under standard conditions",
+        "Assume that  and  do not vary with temperature."
+      ],
+      "id": "19.70",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Consider the following reaction between oxides of nitrogen: (a) Use data in Appendix C to predict how  for the reaction varies with increasing temperature",
+        "(b) Calculate  at 800 K, assuming that  and  do not change with temperature",
+        "Under standard conditions is the reaction spontaneous at 800 K? (c) Calculate  at 1000 K",
+        "Is the reaction spontaneous under standard conditions at this temperature? ¢G° ¢S° ¢H° ¢G° ¢G° NO21g2 + N2O1g2 ¡ 3NO1g2 ¢S° ¢H° CH3COOH1l2 ¡ CH3OH1g2 + CO1g2 ¢G = 0 ¢S ¢H ¢S = -98 J>K ¢H = -32 kJ ¢H 45 °C ¢S ¢S° = 179 J>K ¢H° = 572 kJ; 2POCl31g2 ¡ 2PCl31g2 + O21g2 ¢H° = -844 kJ; ¢S° = -165 J>K 2PbS1s2 + 3O21g2 ¡ 2PbO1s2 + 2SO21g2 ¢G° ¢S° ¢H°"
+      ],
+      "id": "19.71",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Explain qualitatively how  changes for each of the follow- ing reactions as the partial pressure of O2 is increased: (a) (b) (c)"
+      ],
+      "id": "19.77",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Indicate whether  increases, decreases, or does not change when the partial pressure of H2 is increased in each of the fol- lowing reactions: (a) (b) (c)"
+      ],
+      "id": "19.78",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Consider the reaction  ",
+        "(a) Using data from Appendix C, calculate  at 298 K",
+        "(b) Calculate at 298 K if the partial pressures of NO2 and N2O4 are"
+      ],
+      "id": "19.79",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "atm and 1.60 atm, respectively."
+      ],
+      "id": "0.40",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Consider the reaction  ",
+        "(a) Using data from Appendix C, calculate  at 298 K",
+        "(b) Calculate  at 298 K if the reaction mixture consists of"
+      ],
+      "id": "19.80",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "atm of CH4, 0.0100 atm of C3H8(g), and 0.0180 atm  of H2",
+        "¢G ¢G° 3 CH41g2 ¡ C3H81g2 + 2 H21g2 ¢G ¢G° 2 NO21g2 ¡ N2O41g2 2 H21g2 + C2H21g2 ¡ C2H61g2 2 HBr1g2 ¡ H21g2 + Br21g2 N21g2 + 3 H21g2 ¡ 2 NH31g2 ¢G 2KClO31s2 ¡ 2 KCl1s2 + 3 O21g2 2H2O21l2 ¡ 2H2O1l2 + O21g2 2CO1g2 + O21g2 ¡ 2CO21g2 ¢G"
+      ],
+      "id": "40.0",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Methanol (CH3OH) can be made by the controlled oxidation of methane: (a) Use data in Appendix C to calculate  and  for this reaction",
+        "(b) How is  for the reaction expected to vary with increasing temperature? (c) Calculate  at 298 K",
+        "Under standard conditions, is the reaction spontaneous at this temperature? (d) Is there a temperature at which the reaction would be at equilibrium under standard conditions and that is low enough so that the compounds involved are likely to be stable?"
+      ],
+      "id": "19.72",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) Use data in Appendix C to estimate the boiling point of benzene, C6H6(l)",
+        "(b) Use a reference source, such as the CRC Handbook of Chemistry and Physics, to find the experimental boiling point of benzene",
+        "How do you explain any deviation between your answer in part (a) and the experimental value?"
+      ],
+      "id": "19.73",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) Using data in Appendix C, estimate the temperature at which the free-energy change for the transformation from I2(s) to I2(g) is zero",
+        "What assumptions must you make in ar- riving at this estimate? (b) Use a reference source, such as Web Elements (www.webelements.com), to find the experimental melting and boiling points of I2",
+        "(c) Which of the values in part (b) is closer to the value you obtained in part (a)? Can you explain why this is so?"
+      ],
+      "id": "19.74",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Acetylene gas, C2H2(g), is used in welding",
+        "(a) Write a bal- anced equation for the combustion of acetylene gas to CO2(g) and H2O(l)",
+        "(b) How much heat is produced in burning 1 mol of C2H2 under standard conditions if both reactants and products are brought to 298 K? (c) What is the maximum amount of useful work that can be accomplished under stan- dard conditions by this reaction?"
+      ],
+      "id": "19.75",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "The fuel in high-efficiency natural gas vehicles consists primarily of methane (CH4)",
+        "(a) How much heat is produced in burning 1 mol of CH4(g) under standard conditions if reactants and prod- ucts are brought to 298 K and H2O(l) is formed? (b) What is the maximum amount of useful work that can be accomplished under standard conditions by this system? ¢G° ¢G° ¢S° ¢H° CH41g2 + 1 2O21g2 ¡ CH3OH1g2 FREE ENERGY AND EQUILIBRIUM (section 19.7)"
+      ],
+      "id": "19.76",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Use data from Appendix C to calculate the equilibrium con- stant, K, at 298 K for each of the following reactions: (a) (b) (c)"
+      ],
+      "id": "19.81",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Using data from Appendix C, write the equilibrium-constant expression and calculate the value of the equilibrium constant for these reactions at 298 K: (a) (b) (c)"
+      ],
+      "id": "19.82",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Consider the decomposition of barium carbonate: Using data from Appendix C, calculate the equilibrium pressure of CO2 at (a) 298 K and (b) 1100 K."
+      ],
+      "id": "19.83",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Consider the reaction Using data in Appendix C, calculate the equilibrium pressure of CO2 in the system at (a) and (b) ",
+        "180 °C 400 °C PbCO31s2 ∆ PbO1s2 + CO21g2 BaCO31s2 ∆ BaO1s2 + CO21g2 2 SO21g2 + O21g2 ∆ 2 SO31g2 2 HBr1g2 + Cl21g2 ∆ 2 HCl1g2 + Br21g2 NaHCO31s2 ∆ NaOH1s2 + CO21g2 3 C2H21g2 ∆ C6H61g2 C2H5OH1g2 ∆ C2H41g2 + H2O1g2 H21g2 + I21g2 ∆ 2 Hl1g2"
+      ],
+      "id": "19.84",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) Which of the thermodynamic quantities T, E, q, w, and S are state functions? (b) Which depend on the path taken from one state to another? (c) How many reversible paths are there between two states of a system? (d) For a reversible isothermal process, write an expression for  in terms of q and w and an expression for  in terms of q and T."
+      ],
+      "id": "19.87",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Indicate whether each of the following statements is true or false",
+        "If it is false, correct it",
+        "(a) The feasibility of manufactur- ing NH3 from N2 and H2 depends entirely on the value of for the process  ",
+        "(b) The re- action of Na(s) with Cl2(g) to form NaCl(s) is a spontaneous process",
+        "(c) A spontaneous process can in principle be con- ducted reversibly",
+        "(d) Spontaneous processes in general require that work be done to force them to proceed",
+        "(e) Spon- taneous processes are those that are exothermic and that lead to a higher degree of order in the system."
+      ],
+      "id": "19.88",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "For each of the following processes, indicate whether the signs of and  are expected to be positive, negative, or about zero",
+        "(a) A solid sublimes",
+        "(b) The temperature of a sample of Co(s) is lowered from  to  ",
+        "(c) Ethyl alcohol evapo- rates from a beaker",
+        "(d) A diatomic molecule dissociates into atoms",
+        "(e) A piece of charcoal is combusted to form CO2(g) and H2O(g)."
+      ],
+      "id": "19.89",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "The reaction  is highly spontaneous and has a negative value for  ",
+        "The second law of thermodynamics states that in any spontaneous process there is always an increase in the entropy of the universe",
+        "Is there an inconsistency between this reaction and the second law? [19.91] Suppose four gas molecules are placed in the left flask in Figure 19.6(a)",
+        "Initially, the right flask is evacuated and the stopcock is closed",
+        "(a) After the stopcock is opened, how many different arrangements of the molecules are possible? (b) How many of the arrangements from part (a) have all the molecules in the left flask? (c) How does the answer to part (b) explain the spontaneous expansion of the gas? [19.92] Consider a system that consists of two standard playing dice, with the state of the system defined by the sum of the values shown on the top faces",
+        "(a) The two arrangements of top faces shown here can be viewed as two possible microstates of the system",
+        "Explain",
+        "(b) To which state does each mi- crostate correspond? (c) How many possible states are there for the system? (d) Which state or states have the highest en- tropy? Explain",
+        "(e) Which state or states have the lowest entropy? Explain",
+        "¢S° 2 Mg1s2 + O21g2 ¡ 2 MgO1s2 25 °C 60 °C ¢H ¢S N21g2 + 3 H21g2 ¡ 2 NH31g2 ¢H ¢S ¢E"
+      ],
+      "id": "19.90",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Ammonium nitrate dissolves spontaneously and endother- mally in water at room temperature",
+        "What can you deduce about the sign of for this solution process? [19.94] A standard air conditioner involves a refrigerant that is typi- cally now a fluorinated hydrocarbon, such as CH2F2",
+        "An air-conditioner refrigerant has the property that it readily va- porizes at atmospheric pressure and is easily compressed to its liquid phase under increased pressure",
+        "The operation of an air conditioner can be thought of as a closed system made up of the refrigerant going through the two stages shown here (the air circulation is not shown in this diagram)",
+        "¢S"
+      ],
+      "id": "19.93",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "The value of Ka for nitrous acid (HNO2) at  is given in Appendix D",
+        "(a) Write the chemical equation for the equilib- rium that corresponds to Ka",
+        "(b) By using the value of Ka, calculate  for the dissociation of nitrous acid in aqueous solution",
+        "(c) What is the value of at equilibrium? (d) What is the value of when  , , and  ? 3HNO24 = 0.20 M 3NO2 -4 = 6.0 * 10-4 M 3H+4 = 5.0 * 10-2 M ¢G ¢G ¢G° 25 °C"
+      ],
+      "id": "19.85",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "The Kb for methylamine (CH3NH2) at  is given in Appendix D.(a) Write the chemical equation for the equilibrium that corresponds to Kb",
+        "(b) By using the value of Kb, calculate for the equilibrium in part (a)",
+        "(c) What is the value  of at equilibrium? (d) What is the value of when ,"
+      ],
+      "id": "19.86",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "× 10-3 M, and  ? 3CH3NH24 = 0.098 M 3CH3NH3 +4 = 3H+4 = 6.7 * 10-9 M ¢G ¢G ¢G° 25 °C Expansion (low pressure) Liquid Vapor Liquid Vapor Compression (high pressure) Expansion chamber Compression chamber During expansion, the liquid refrigerant is released into an ex- pansion chamber at low pressure, where it vaporizes",
+        "The vapor then undergoes compression at high pressure back to its liquid phase in a compression chamber",
+        "(a) What is the sign of q for the expansion? (b) What is the sign of q for the compression? (c) In a central air-conditioning system, one chamber is inside the home and the other is outside",
+        "Which chamber is where, and why? (d) Imagine that a sample of liquid refrigerant undergoes expansion followed by compression, so that it is back to its original state",
+        "Would you expect that to be a reversible process? (e) Suppose that a house and its exterior are both initially at  ",
+        "Some time after the air conditioner is turned on, the house is cooled to ",
+        "Is this process spontaneous or nonspontaneous? [19.95] Trouton’s rule states that for many liquids at their normal boil- ing points, the standard molar entropy of vaporization is about 88 J>mol-K",
+        "(a) Estimate the normal boiling point of bromine, Br2, by determining  for Br2 using data from Appendix C",
+        "Assume that  remains constant with tem- perature and that Trouton’s rule holds",
+        "(b) Look up the normal boiling point of Br2 in a chemistry handbook or at the WebElements Web site (www.webelements.com)",
+        "[19.96] For the majority of the compounds listed in Appendix C, the value of is more positive (or less negative) than the value of ",
+        "(a) Explain this observation, using NH3(g), CCl4(l), and KNO3(s) as examples",
+        "(b) An exception to this observa- tion is CO(g)",
+        "Explain the trend in the  and  values for this molecule",
+        "¢G°f ¢H°f ¢H°f ¢G°f ¢H°vap ¢H°vap 24 °C 31 °C"
+      ],
+      "id": "2.4",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Consider the following three reactions: (i) (ii) (iii) (a) For each of the reactions, use data in Appendix C to calcu- late  , , and  at  ",
+        "(b) Which of these reactions are spontaneous under standard conditions at  ? (c) For each of the reactions, predict the manner in which the change in free energy varies with an increase in temperature."
+      ],
+      "id": "19.97",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Using the data in Appendix C and given the pressures listed, calculate  for each of the following reactions: (a) (b) , (c)"
+      ],
+      "id": "19.98",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) For each of the following reactions, predict the sign of and  and discuss briefly how these factors determine the magnitude of K",
+        "(b) Based on your general chemical knowl- edge, predict which of these reactions will have  ",
+        "(c) In each case indicate whether K should increase or decrease with increasing temperature",
+        "(i) (ii) (iii) (iv) 19.100 Acetic acid can be manufactured by combining methanol with carbon monoxide, an example of a carbonylation reaction: (a) Calculate the equilibrium constant for the reaction at  ",
+        "(b) Industrially, this reaction is run at temperatures above  ",
+        "Will an increase in temperature produce an increase or decrease in the mole fraction of acetic acid at equilibrium? Why are ele- vated temperatures used? (c) At what temperature will this reaction have an equilibrium constant equal to 1? (You may as- sume that  and  are temperature independent, and you may ignore any phase changes that might occur.) 19.101 The oxidation of glucose (C6H12O6) in body tissue produces CO2 and H2O",
+        "In contrast, anaerobic decomposition, which occurs during fermentation, produces ethanol (C2H5OH) and CO2",
+        "(a) Using data given in Appendix C, compare the equilib- rium constants for the following reactions: (b) Compare the maximum work that can be obtained from these processes under standard conditions",
+        "[19.102] The conversion of natural gas, which is mostly methane, into products that contain two or more carbon atoms, such as ethane (C2H6), is a very important industrial chemical process",
+        "In prin- ciple, methane can be converted into ethane and hydrogen: In practice, this reaction is carried out in the presence of oxygen: (a) Using the data in Appendix C, calculate K for these reac- tions at  and  ",
+        "(b) Is the difference in  for the two reactions due primarily to the enthalpy term  or the 1¢H2 ¢G° 500 °C 25 °C 2 CH41g2 + 1 2 O21g2 ¡ C2H61g2 + H2O1g2 2 CH41g2 ¡ C2H61g2 + H21g2  C6H12O61s2 ∆ 2 C2H5OH1l2 + 2 CO21g2  C6H12O61s2 + 6O21g2 ∆ 6 CO21g2 + 6 H2O1l2 ¢S° ¢H° 25 °C 25 °C CH3OH1l2 + CO1g2 ¡ CH3COOH1l2 2 V2O51s2 ∆ 4 V1s2 + 5 O21g2 Na21g2 ∆ 2 Na1g2 2 KI1s2 ∆ 2 K1g2 + I21g2 2 Mg1s2 + O21g2 ∆ 2 MgO1s2 K 7 0 ¢S° ¢H° PN2 = 1.5 atm, PH2 = 2.5 atm PN2H4 = 0.5 atm, N2H41g2 ¡ N21g2 + 2 H21g2 PN2 = 0.5 atm, PH2O = 0.3 atm PN2H4 = PNO2 = 5.0 * 10-2 atm 3 N21g2 + 4 H2O1g2 2 N2H41g2 + 2 NO21g2 ¡ PH2 = 5.9 atm, PNH3 = 1.2 atm PN2 = 2.6 atm, 2 NH31g2 N21g2 + 3 H21g2 ¡ ¢G° 25 °C 25 °C ¢S° ¢G° ¢H° BaO1s2 + CO21g2 ¡ BaCO31s2 C2H61g2 + 7 Cl21g2 ¡ 2 CCl41g2 + 6 HCl1g2 Ti1s2 + 2 Cl21g2 ¡ TiCl41g2 entropy term  ? (c) Explain how the preceding reac- tions are an example of driving a nonspontaneous reaction, as discussed in the “Chemistry and Life” box in Section 19.7",
+        "(d) The reaction of CH4 and O2 to form C2H6 and H2O must be carried out carefully to avoid a competing reaction",
+        "What is the most likely competing reaction? [19.103] Cells use the hydrolysis of adenosine triphosphate (ATP) as a source of energy (Figure 19.19)",
+        "The conversion of ATP to ADP has a standard free-energy change of -30.5 kJ>mol",
+        "If all the free energy from the metabolism of glucose, goes into the conversion of ADP to ATP, how many moles of ATP can be produced for each mole of glucose? [19.104] The potassium-ion concentration in blood plasma is about M, whereas the concentration in muscle-cell fluid is much greater (0.15 M)",
+        "The plasma and intracellular fluid are separated by the cell membrane, which we assume is per- meable only to  ",
+        "(a) What is  for the transfer of 1 mol of from blood plasma to the cellular fluid at body tempera- ture  ? (b) What is the minimum amount of work that must be used to transfer this  ? [19.105] The relationship between the temperature of a reaction, its stan- dard enthalpy change, and the equilibrium constant at that temperature can be expressed as the following linear equation: (a) Explain how this equation can be used to determine  ex- perimentally from the equilibrium constants at several different temperatures",
+        "(b) Derive the preceding equation using relation- ships given in this chapter",
+        "To what is the constant equal? [19.106] One way to derive Equation 19.3 depends on the observation that at constant T the number of ways, W, of arranging m ideal-gas particles in a volume V is proportional to the volume raised to the m power: Use this relationship and Boltzmann’s relationship between entropy and number of arrangements (Equation 19.5) to derive the equation for the entropy change for the isothermal expansion or compression of n moles of an ideal gas",
+        "[19.107] About 86% of the world’s electrical energy is produced by using steam turbines, a form of heat engine",
+        "In his analysis of an ideal heat engine, Sadi Carnot concluded that the maxi- mum possible efficiency is defined by the total work that could be done by the engine, divided by the quantity of heat avail- able to do the work (for example, from hot steam produced by combustion of a fuel such as coal or methane)",
+        "This efficiency is given by the ratio  , where Thigh is the temperature of the heat going into the engine and Tlow is that of the heat leaving the engine",
+        "(a) What is the maximum pos- sible efficiency of a heat engine operating between an input temperature of 700 K and an exit temperature of 288 K? (b) Why is it important that electrical power plants be located near bodies of relatively cool water? (c) Under what condi- tions could a heat engine operate at or near 100% efficiency? (d) It is often said that if the energy of combustion of a fuel such as methane were captured in an electrical fuel cell instead of by burning the fuel in a heat engine, a greater fraction of the energy could be put to useful work",
+        "Make a qualitative draw- ing like that in Figure 5.10 that illustrates the fact that in principle the fuel cell route will produce more useful work than the heat engine route from combustion of methane",
+        "1Thigh - Tlow2>Thigh W r V m ¢H° ln K = -¢H° RT + constant K+ 37 °C K+ ¢G K+"
+      ],
+      "id": "19.99",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "* 10-3 C6H12O61s2 + 6 O21g2 ¡ 6 CO21g2 + 6 H2O1l2 1-T¢S2"
+      ],
+      "id": "5.0",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "65.3 CS2(g) 117.4"
+      ],
+      "id": "89.7",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Substance Normal Boiling Point (°C) (kJ/mol) ¢Hvap Acetone, (CH3)2CO"
+      ],
+      "id": "67.2",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "29.1 Dimethyl ether, (CH3)2O -24.8"
+      ],
+      "id": "56.1",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Ethanol, C2H5OH"
+      ],
+      "id": "21.5",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "38.6 Octane, C8H18 125.6"
+      ],
+      "id": "78.4",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "Pyridine, C5H5N 115.3"
+      ],
+      "id": "34.4",
+      "section": "",
+      "image": ""
+    },
+    {
+      "question": [
+        "(a) Calculate  for each of the liquids",
+        "Do all the liquids obey Trouton’s rule? (b) With reference to intermolecular forces (Section 11.2), can you explain any exceptions to the rule? (c) Would you expect water to obey Trouton’s rule? By using data in Appendix B, check the accuracy of your conclu- sion",
+        "(d) Chlorobenzene (C6H5Cl) boils at  ",
+        "Use Trouton’s rule to estimate  for this substance",
+        "19.109 In chemical kinetics the entropy of activation is the entropy change for the process in which the reactants reach the acti- vated complex",
+        "The entropy of activation for bimolecular processes is usually negative",
+        "Explain this observation with reference to Figure 14.17",
+        "19.110 The following processes were all discussed in Chapter 18, “Chemistry of the Environment.” Estimate whether the entropy of the system increases or decreases during each process: (a) photodissociation of O2(g), (b) formation of ozone from oxygen molecules and oxygen atoms, (c) diffusion of CFCs into the stratosphere, (d) desalination of water by reverse osmosis",
+        "19.111 Carbon disulfide (CS2) is a toxic, highly flammable substance",
+        "The following thermodynamic data are available for CS2(l) and CS2(g) at 298 K: ¢Hvap 131.8 °C ¢Svap (a) Write the formation reaction for AgNO3(s)",
+        "Based on this reaction, do you expect the entropy of the system to increase or decrease upon the formation of AgNO3(s)? (b) Use  and  of AgNO3(s) to determine the entropy change upon formation of the substance",
+        "Is your answer consistent with your reasoning in part (a)? (c) Is dissolving AgNO3 in water an exothermic or endothermic process? What about dissolving MgSO4 in water? (d) For both AgNO3 and MgSO4, use the data to calculate the entropy change when the solid is dis- solved in water",
+        "(e) Discuss the results from part (d) with reference to material presented in this chapter and in the “A Closer Look” box on page 540",
+        "[19.113] Consider the following equilibrium: Thermodynamic data on these gases are given in Appendix C",
+        "You may assume that  and  do not vary with tempera- ture",
+        "(a) At what temperature will an equilibrium mixture contain equal amounts of the two gases? (b) At what tempera- ture will an equilibrium mixture of 1 atm total pressure contain twice as much NO2 as N2O4? (c) At what temperature will an equilibrium mixture of 10 atm total pressure contain twice as much NO2 as N2O4? (d) Rationalize the results from parts (b) and (c) by using Le Châtelier’s principle",
+        "[Section 15.7] [19.114] The reaction is the basis of a suggested method for removal of SO2 from power-plant stack gases",
+        "The standard free energy of each sub- stance is given in Appendix C",
+        "(a) What is the equilibrium constant for the reaction at 298 K? (b) In principle, is this reac- tion a feasible method of removing SO2? (c) If and the vapor pressure of water is 25 torr, calculate the equilibrium SO2 pressure in the system at 298 K",
+        "(d) Would you expect the process to be more or less effective at higher temperatures? 19.115 When most elastomeric polymers (e.g., a rubber band) are stretched, the molecules become more ordered, as illustrated here: PSO2 = PH2S SO21g2 + 2 H2S1g2 ∆ 3 S1s2 + 2 H2O1g2 ¢S° ¢H° N2O41g2 ∆ 2 NO21g2 ¢G°f ¢H°f (a) Draw the Lewis structure of the molecule",
+        "What do you predict for the bond order of the  bonds? (b) Use the VSEPR method to predict the structure of the CS2 molecule",
+        "(c) Liquid CS2 burns in O2 with a blue flame, forming CO2(g) and SO2(g)",
+        "Write a balanced equation for this reaction",
+        "(d) Using the data in the preceding table and in Appendix C, cal- culate  and  for the reaction in part (c)",
+        "Is the reaction exothermic? Is it spontaneous at 298 K? (e) Use the data in the table to calculate  at 298 K for the vaporization of CS2(l)",
+        "Is the sign of as you would expect for a vaporization? (f) Using data in the table and your answer to part (e), estimate the boiling point of CS2(l)",
+        "Do you predict that the substance will be a liquid or a gas at 298 K and 1 atm? [19.112] The following data compare the standard enthalpies and free energies of formation of some crystalline ionic substances and aqueous solutions of the substances: ¢S° ¢S° ¢G° ¢H° C ¬ S Substance (kJ/mol) ≤H °f (kJ/mol) ≤G°f AgNO3(s) -124.4 -33.4 AgNO3(aq) -101.7 -34.2 MgSO4(s) -1283.7 -1169.6 MgSO4(aq) -1374.8 -1198.4 Suppose you stretch a rubber band",
+        "(a) Do you expect the en- tropy of the system to increase or decrease? (b) If the rubber band were stretched isothermally, would heat need to be ab- sorbed or emitted to maintain constant temperature? (c) Try this experiment: Stretch a rubber band and wait a moment",
+        "Then place the stretched rubber band on your upper lip, and let it return suddenly to its unstretched state (remember to keep holding on)",
+        "What do you observe? Are your observa- tions consistent with your answer to part (b)?"
+      ],
+      "id": "35.1",
+      "section": "",
+      "image": ""
+    }
+  ]
+}
